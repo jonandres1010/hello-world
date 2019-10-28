@@ -1,5 +1,4 @@
 # hello-world
-Depository MVH\
 
    <h1><b>Jon Andres MVHa</b></h1>
 <p>Jon Andres</p>
