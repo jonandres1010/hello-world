@@ -1,7 +1,6 @@
 # hello-world
-Depository MVH\
 
-   <h1><b>Jon Andres MVHa</b></h1>
+   <h1><b>Jon Andres MVH</b></h1>
 <p>Jon Andres</p>
 <h3><b>I am a student at Mar Vista High</b></h3>
 <br/>
